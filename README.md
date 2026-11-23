@@ -1,4 +1,5 @@
 # Peggling-it-real-good
 
-The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal bodeboop. A sing lap should be completed every time you hear this sound. ding Remember to run in a straight line and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark. Get ready!… Start. ding
+Mijn idee was om een van mijn favoriete games, Balatro, te intergreren in Peggle. Balatro is een deckbuilding roguelike waarin je Jokers, Planeten, Spectral-, en Tarotkaarten gebruikt om elke ronde een hogere score te halen. Dan zijn er boss blinds om extra uitdagingen toe te voegen.
 
+Mijn idee momenteel (23-11-2026) is om het Joker-concept toe te passen in een manier om meer score te halen of de pegs te upgraden of verwijderen, waardoor je de score kan bruteforcen zoals in Balatro, maar met het risico dat er te weinig pegs zijn om genoeg score te halen.
